@@ -13,5 +13,4 @@ Done :D
 That's the high level picture.
 
 I have a video where I go through details of this configuration:
-
-<link to be added when I finish making the video>
+https://youtu.be/pZEL2J3vwmM
